@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/bank-learning-ui/static/css/main.073c9b0a.css",
-    "main.js": "/bank-learning-ui/static/js/main.8bb4c419.js",
-    "static/js/787.6bcdad21.chunk.js": "/bank-learning-ui/static/js/787.6bcdad21.chunk.js",
-    "static/media/logo.svg": "/bank-learning-ui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/bank-learning-ui/static/css/main.c2cab247.css",
+    "main.js": "/bank-learning-ui/static/js/main.d9cf297c.js",
     "index.html": "/bank-learning-ui/index.html",
-    "main.073c9b0a.css.map": "/bank-learning-ui/static/css/main.073c9b0a.css.map",
-    "main.8bb4c419.js.map": "/bank-learning-ui/static/js/main.8bb4c419.js.map",
-    "787.6bcdad21.chunk.js.map": "/bank-learning-ui/static/js/787.6bcdad21.chunk.js.map"
+    "main.c2cab247.css.map": "/bank-learning-ui/static/css/main.c2cab247.css.map",
+    "main.d9cf297c.js.map": "/bank-learning-ui/static/js/main.d9cf297c.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8bb4c419.js"
+    "static/css/main.c2cab247.css",
+    "static/js/main.d9cf297c.js"
   ]
 }
